@@ -1,0 +1,10 @@
+python_dict.get():
+
+dict.get(key,default=None)
+  key -- 搜索字典中的键
+  default -- 返回键不存在时的情况
+
+numpy.argsort
+
+numpy.argsort(a, axis = -1, kind='quicksort', order=None)
+  returns the indices that would sort an array.
